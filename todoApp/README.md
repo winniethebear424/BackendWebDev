@@ -11,3 +11,7 @@
 #### Install Django
 1. Install Django: `pip install django`
 2. Using Django Command: `django-admin startproject xxxx .`
+
+
+### Superuser creation
+`python manage.py createsuperuser`
